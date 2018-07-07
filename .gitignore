@@ -368,3 +368,9 @@ sysinfo.txt
 !*.shader.meta
 !*.mat.meta
 !*.cs.meta
+!*.png.meta
+!*.gif.meta
+!*.wav.meta
+!*.mp3.meta
+!*.jpg.meta
+!*.jpeg.meta
